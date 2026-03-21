@@ -15,7 +15,7 @@ Upon completion of my final 2026 modules, I will be awarded the official certifi
 
 ### 1. Strategy & Management
 - [x] **[Professional Certificate in Machine Learning and Artificial Intelligence](https://github.com/kooroshvaziri/Berkeley_AIML)** (4 Days)
-- [ ] **[Data Strategy: Leveraging Data as a Competitive Advantage](https://github.com/kooroshvaziri/Berkeley_Data_Strategy)** (2 Days)
+- [x] **[Data Strategy: Leveraging Data as a Competitive Advantage](https://github.com/kooroshvaziri/Berkeley_Data_Strategy)** (2 Days)
 
 ### 2. Entrepreneurship & Innovation
 - [x] **[Product Management Studio](https://github.com/kooroshvaziri/Berkeley_Product_Management_Studio)** (4 Days)
