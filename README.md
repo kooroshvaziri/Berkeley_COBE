@@ -19,7 +19,7 @@ Upon completion of my final 2026 modules, I will be awarded the official certifi
 
 ### 2. Entrepreneurship & Innovation
 - [x] **[Product Management Studio](https://github.com/kooroshvaziri/Berkeley_Product_Management_Studio)** (4 Days)
-- [ ] **[Digital Transformation: Leading People, Data, and Technology](https://github.com/kooroshvaziri/Berkeley_Digital_Transformation)** (2 Days — *Finishing by  May 2026*)
+- [ ] **[Digital Transformation: Leading People, Data, and Technology](https://github.com/kooroshvaziri/Berkeley_Digital_Transformation)** (2 Days — *Finishing in  May 2026*)
 
 ### 3. Finance & Business Acumen
 - [x] **[FinTech: Frameworks, Applications, and Strategies](https://github.com/kooroshvaziri/Berkeley_FinTech)** (3 Days)
