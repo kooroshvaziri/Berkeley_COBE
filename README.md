@@ -1,5 +1,5 @@
 # 🏆 UC Berkeley Certificate of Business Excellence (COBE)
-![Progress](https://img.shields.io/badge/COBE_Curriculum-13%2F17_Days-blue)
+![Progress](https://img.shields.io/badge/COBE_Curriculum-15%2F17_Days-blue)
 
 ### Executive Leadership, Innovation, and Strategy
 
