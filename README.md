@@ -30,7 +30,7 @@ Upon completion of my final 2026 modules, I will be awarded the official certifi
 ---
 
 ## 🎓 Key Alumni Benefits & Resources
-- 📧 **Official Berkeley Email:** Activation of an `@haas.executivealumni.berkeley.edu` email forwarding address.
+- 📧 **Official Berkeley Alumni:** Berkeley email forwarding address and executive alumni status.
 - 🤝 **Global Alumni Network:** Full access to the private global network of Berkeley Haas alumni and local chapters.
 - 📚 **Lifelong Learning:** Access to university database services, select library privileges, and future programs.
 - 💼 **Career Resources:** Subscription to the Berkeley Haas Alumni Jobs e-newsletter and latest industry research.
