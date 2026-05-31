@@ -4,7 +4,7 @@
 
 This repository serves as the capstone for my **[Certificate of Business Excellence](https://executive.berkeley.edu/certificate-business-excellence)** from **UC Berkeley Haas School of Busibess and UC Berkeley Executive Education**. The COBE is a high-level credential highly regarded as a more focused executuce MBA, or MBA alt., awarded to leaders who complete 17+ days of curriculum across four academic pillars within 3 years.
 
-I was awarded the official certificate and granted **UC Berkeley Haas Executive Alumnus** status as of May 2026.
+I was awarded the official certificate and granted **UC Berkeley Haas Executive Alumnus** status as of June 2026.
 
 ---
 
