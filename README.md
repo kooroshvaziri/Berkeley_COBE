@@ -19,19 +19,19 @@ Developed the business strategy and technical blueprint for **SONERAMIC**, an AI
 
 ## 🏛️ Academic Pillars & Completed Programs
 
-### 1. Strategy & Management
-- **[Data Science: Machine Learning and Artificial Intelligence](https://github.com/kooroshvaziri/Berkeley_AIML)**
-- **[Data Strategy: Leveraging Data as a Competitive Advantage](https://github.com/kooroshvaziri/Berkeley_Data_Strategy)**
+> ### 1. Strategy & Management
+> - **[Data Science: Machine Learning and Artificial Intelligence](https://github.com/kooroshvaziri/Berkeley_AIML)**
+> - **[Data Strategy: Leveraging Data as a Competitive Advantage](https://github.com/kooroshvaziri/Berkeley_Data_Strategy)**
 
-### 2. Entrepreneurship & Innovation
-- **[Product Management Studio](https://github.com/kooroshvaziri/Berkeley_Product_Management_Studio)**
-- **[Digital Transformation: Leading People, Data, and Technology](https://github.com/kooroshvaziri/Berkeley_Digital_Transformation)** 
+> ### 2. Entrepreneurship & Innovation
+> - **[Product Management Studio](https://github.com/kooroshvaziri/Berkeley_Product_Management_Studio)**
+> - **[Digital Transformation: Leading People, Data, and Technology](https://github.com/kooroshvaziri/Berkeley_Digital_Transformation)** 
 
-### 3. Finance & Business Acumen
-- **[FinTech: Frameworks, Applications, and Strategies](https://github.com/kooroshvaziri/Berkeley_FinTech)** 
+> ### 3. Finance & Business Acumen
+> - **[FinTech: Frameworks, Applications, and Strategies](https://github.com/kooroshvaziri/Berkeley_FinTech)** 
 
-### 4. Leadership & Communication
-- **[Leading Strategy Execution through Culture](https://github.com/kooroshvaziri/Berkeley_Leading_Strategy_Execution_through_Culture)**
+> ### 4. Leadership & Communication
+> - **[Leading Strategy Execution through Culture](https://github.com/kooroshvaziri/Berkeley_Leading_Strategy_Execution_through_Culture)**
 
 ---
 
