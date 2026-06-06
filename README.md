@@ -2,7 +2,9 @@
 
 ### Executive Leadership, Innovation, and Strategy
 
-This repository serves as the capstone for my **[Certificate of Business Excellence](https://executive.berkeley.edu/certificate-business-excellence)** from **UC Berkeley Haas School of Busibess and UC Berkeley Executive Education**. The COBE is a high-level credential highly regarded as a more focused executuce MBA, or MBA alt., awarded to leaders who complete 17+ days of curriculum across four academic pillars within 3 years.
+This repository serves as the capstone for my **[Certificate of Business Excellence](https://executive.berkeley.edu/certificate-business-excellence)** from **UC Berkeley Haas School of Business and UC Berkeley Executive Education**. The COBE is an elite credential highly regarded as a more focused Executive MBA awarded to leaders who complete all curriculum requirements within 3 years across four academic pillars.
+
+### 🎓 UC Berkeley Haas Executive Alumni
 
 I was awarded the official certificate and granted **UC Berkeley Haas Executive Alumnus** status as of June 2026.
 
@@ -18,23 +20,18 @@ Developed the business strategy and technical blueprint for **SONERAMIC**, an AI
 ## 🏛️ Academic Pillars & Completed Programs
 
 ### 1. Strategy & Management
-- **[Professional Certificate in Machine Learning and Artificial Intelligence](https://github.com/kooroshvaziri/Berkeley_AIML)** (4 Days)
-- **[Data Strategy: Leveraging Data as a Competitive Advantage](https://github.com/kooroshvaziri/Berkeley_Data_Strategy)** (2 Days)
+- **[Professional Certificate in Machine Learning and Artificial Intelligence](https://github.com/kooroshvaziri/Berkeley_AIML)**
+- **[Data Strategy: Leveraging Data as a Competitive Advantage](https://github.com/kooroshvaziri/Berkeley_Data_Strategy)**
 
 ### 2. Entrepreneurship & Innovation
-- **[Product Management Studio](https://github.com/kooroshvaziri/Berkeley_Product_Management_Studio)** (4 Days)
-- **[Digital Transformation: Leading People, Data, and Technology](https://github.com/kooroshvaziri/Berkeley_Digital_Transformation)** (2 Days)
+- **[Product Management Studio](https://github.com/kooroshvaziri/Berkeley_Product_Management_Studio)**
+- **[Digital Transformation: Leading People, Data, and Technology](https://github.com/kooroshvaziri/Berkeley_Digital_Transformation)** 
 
 ### 3. Finance & Business Acumen
-- **[FinTech: Frameworks, Applications, and Strategies](https://github.com/kooroshvaziri/Berkeley_FinTech)** (3 Days)
+- **[FinTech: Frameworks, Applications, and Strategies](https://github.com/kooroshvaziri/Berkeley_FinTech)** 
 
 ### 4. Leadership & Communication
-- **[Leading Strategy Execution through Culture](https://github.com/kooroshvaziri/Berkeley_Leading_Strategy_Execution_through_Culture)** (2 Days)
+- **[Leading Strategy Execution through Culture](https://github.com/kooroshvaziri/Berkeley_Leading_Strategy_Execution_through_Culture)**
 
 ---
 
-## 🎓 Key Alumni Benefits & Resources
-- 📧 **Official Berkeley Alumni:** Berkeley email forwarding address and executive alumni status.
-- 🤝 **Global Alumni Network:** Full access to the private global network of Berkeley Haas alumni and local chapters.
-- 📚 **Lifelong Learning:** Access to university database services, select library privileges, and future programs.
-- 💼 **Career Resources:** Subscription to the Berkeley Haas Alumni Jobs e-newsletter and latest industry research.
