@@ -17,7 +17,7 @@ Developed the business strategy and technical blueprint for **SONERAMIC**, an AI
 
 ---
 
-## 🏛️ Academic Pillars & Completed Programs
+## 🏛️ Academic Pillars & Completed Curriculum
 
 > ### 1. Strategy & Management
 > - **[Data Science: Machine Learning and Artificial Intelligence](https://github.com/kooroshvaziri/Berkeley_AIML)**
