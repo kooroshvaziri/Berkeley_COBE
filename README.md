@@ -10,6 +10,9 @@ I was awarded the official certificate and granted **UC Berkeley Haas Executive 
 
 Developed the business strategy and technical blueprint for **SONERAMIC**, an AI-driven spatial computing platform utilizing ultrasonic and LiDAR digital twins to disrupt acoustic calibration standards.
 
+* **View Presentation:** [Soneramic Capstone Slides](https://github.com/kooroshvaziri/Berkeley_COBE/Soneramic/berkeley_haas_cobe_capstone_soneramic_by_kooroshvaziri.pdf)
+
+
 ---
 
 ## 🏛️ Academic Pillars & Completed Programs
