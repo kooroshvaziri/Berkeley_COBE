@@ -6,6 +6,8 @@ This repository serves as the capstone for my **[Certificate of Business Excelle
 
 I was awarded the official certificate and granted **UC Berkeley Haas Executive Alumnus** status as of June 2026.
 
+* 🚀 **Program Capstone:** Developed the business strategy and technical blueprint for **SONERAMIC**, an AI-driven spatial computing platform utilizing ultrasonic and LiDAR digital twins to disrupt acoustic calibration standards.
+
 ---
 
 ## 🏛️ Academic Pillars & Completed Programs
