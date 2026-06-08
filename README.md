@@ -35,3 +35,8 @@ Developed the business strategy and technical blueprint for **SONERAMIC**, an AI
 
 ---
 
+> * 🌐 [**UC Berkeley Digital Transformation**](https://github.com/kooroshvaziri/Berkeley_Digital_Transformation) — *Leading People, Data, and Technology; Process optimization through Swimlane mapping.*
+> * 📊 [**UC Berkeley Data Strategy**](https://github.com/kooroshvaziri/Berkeley_Data_Strategy) — *Leveraging Data as a Competitive Advantage; Building data assets and flywheels.*
+> * 👥 [**UC Berkeley Leading Strategy Execution**](https://github.com/kooroshvaziri/Berkeley_Leading_Strategy_Execution_through_Culture) — *Organizational Leadership, Alignment, and High-Performance Engineering Culture.*
+> * 🎯 [**UC Berkeley Product Management**](https://github.com/kooroshvaziri/Berkeley_Product_Management_Studio) — *Product Strategy, Market Analysis, and Lifecycle Roadmapping.*
+> * 📈 [**UC Berkeley FinTech Frameworks**](https://github.com/kooroshvaziri/Berkeley_FinTech) — *Decentralized applications, cryptographic assets, and automated economic strategies.*
