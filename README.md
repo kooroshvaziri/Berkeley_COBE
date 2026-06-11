@@ -6,7 +6,7 @@ This repository serves as the capstone for my **[Certificate of Business Excelle
 
 ### 🎓 Berkeley Haas Alumni
 
-I was awarded the official certificate and granted **UC Berkeley Haas Executive Alumnus** status as of June 2026.
+I was awarded the official certificate and granted **UC Berkeley Haas Executive Alumnus** status as of May 2026.
 
 ### 🚀 **Program Capstone:** 
 
